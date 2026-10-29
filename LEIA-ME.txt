@@ -1,0 +1,15 @@
+SURPRESA PARA QUEEN — COMO USAR
+
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador para visualizar o site.
+3. Para adicionar a música:
+   - Coloque um arquivo MP3 que você tenha direito de usar na pasta "musica".
+   - Renomeie o arquivo para: nossa-musica.mp3
+   - Mantenha a pasta "musica" no mesmo lugar de index.html.
+4. Você também pode abrir o site e usar "Escolher música neste aparelho" para testar um áudio no seu próprio celular.
+
+OBSERVAÇÕES
+- O site foi feito para funcionar em celulares e computadores.
+- Navegadores de celular normalmente bloqueiam reprodução automática de áudio. Por isso, o site oferece um botão para tocar a música.
+- Para compartilhar pela internet, publique a pasta extraída em um serviço de hospedagem de sites estáticos. Enviar apenas o index.html não inclui a música; envie também a pasta "musica".
+- A cartinha pode ser editada abrindo index.html em um editor de texto.
